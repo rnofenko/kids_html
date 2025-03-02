@@ -2,7 +2,25 @@
     font-size: 36pt;
     color: chartreuse;
 }
+
 #privet {
     color: blueviolet;
     font-size: 35pt;
+}
+
+#q1 {
+    color: green;
+}
+
+#g1{
+    color: aqua;
+}
+
+#m1{
+    color: aquamarine;
+}
+
+#Max1{
+    color:red;
+    font-size: 77pt;
 }
